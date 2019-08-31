@@ -1,4 +1,5 @@
 # Newton-Raphson
+//Autores: Kevin Alarcon y Marcelo Diaz
 Repositorio Metodo Newton Raphson
 #include <iostream>
 #include <math.h>
